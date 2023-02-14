@@ -1,0 +1,45 @@
+h1{
+    color: white;
+    background-color: red;
+}
+h2 {
+    color: #ff5500;
+    background-color: #ffa500;
+}
+
+h3 {
+    color: #f90;
+    background-color: #ff0;
+}
+
+h4 {
+    color: #0000ffff;
+    background-color: #008000ff;
+}
+
+h5{
+    color: #0f0f;
+    background-color: #00ff;
+}
+
+h6 {
+    color:rgb(178, 140, 197);
+    background-color: rgb(75, 0, 130);
+
+}
+
+p {
+    color: rgba(100, 75, 106, 0.5);
+    background-color: rgba(238, 130, 238, 0.792);
+}
+
+#firstItem {
+    color: hotpink;
+}
+
+#thirdItem {
+    background-color: peachpuff;
+}
+.border{
+    border: 5px solid green;
+}
